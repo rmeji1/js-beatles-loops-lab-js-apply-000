@@ -13,7 +13,7 @@ function johnLennonFacts(facts){
   var factsWithExclamation = Array()
   
   for (var fact of facts){
-    factsWithExclamation.push(fact + "!")
+    factsWithExclamation.push(fact + "!!!")
   }
   
   return factsWithExclamation

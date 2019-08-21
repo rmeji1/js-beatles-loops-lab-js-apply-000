@@ -19,10 +19,13 @@ function johnLennonFacts(facts){
   return factsWithExclamation
 }
 
-function iLoveTheBeatles(number){
-  var array = Array()
+function iLoveTheBeatles(n){
+  var loveTheBeatlesNTimes = Array()
   
-  
+  do{
+    loveTheBeatlesNTimes.push("I love the Beatles!")
+    n += 5
+  }while(n < 15)
   
   return array
 }

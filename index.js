@@ -9,4 +9,6 @@ function theBeatlesPlay(musicians, instruments){
   return sentences
 }
 
-function 
+function johnLennonFacts(facts){
+  var factsWithExlam
+}

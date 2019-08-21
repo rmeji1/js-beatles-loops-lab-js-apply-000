@@ -27,5 +27,5 @@ function iLoveTheBeatles(n){
     n += 5
   }while(n < 15)
   
-  return array
+  return loveTheBeatlesNTimes
 }

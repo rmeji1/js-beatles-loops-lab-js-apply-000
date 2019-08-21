@@ -24,7 +24,7 @@ function iLoveTheBeatles(n){
   
   do{
     loveTheBeatlesNTimes.push("I love the Beatles!")
-    n += 5
+    n += 1
   }while(n < 15)
   
   return loveTheBeatlesNTimes

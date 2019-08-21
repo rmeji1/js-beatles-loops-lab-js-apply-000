@@ -2,7 +2,7 @@
 function theBeatlesPlay(musicians, instruments){
   var sentences = Array()
   
-  for( var musician of musicians ){
-    console.log(musician)
+  for (int k = 0; k < musicians.count; k++){
+    console.log() 
   }
 }

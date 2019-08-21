@@ -10,5 +10,11 @@ function theBeatlesPlay(musicians, instruments){
 }
 
 function johnLennonFacts(facts){
-  var factsWithExlam
+  var factsWithExclamation = Array()
+  
+  for (var fact of facts){
+    factsWithExclamation.push(fact + "!")
+  }
+  
+  return factsWithExclamation
 }

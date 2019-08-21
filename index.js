@@ -18,3 +18,11 @@ function johnLennonFacts(facts){
   
   return factsWithExclamation
 }
+
+function iLoveTheBeatles(number){
+  var array = Array()
+  
+  
+  
+  return array
+}
